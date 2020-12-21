@@ -1,6 +1,9 @@
-# Strogonoff
+# Strogonoff :chicken:
 
 ### Ingredientes
+
+- frango
+- ketchup
 
 
 
